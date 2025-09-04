@@ -165,7 +165,7 @@ Build settings (auto):
 
 ## Author
 
-- Your Name – <email@example.com> – <LinkedIn or Portfolio>
+- Saifur Rahman
 
 ---
 
