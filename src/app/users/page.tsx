@@ -31,7 +31,7 @@ export default function UsersPage() {
   const [error, setError] = useState<string | null>(null);
   const [searchTerm, setSearchTerm] = useState("");
   const [page, setPage] = useState(1);
-  const [pageSize, setPageSize] = useState(6);
+  const [pageSize, setPageSize] = useState(5);
 
   useEffect(() => {
     let cancelled = false;
@@ -115,9 +115,8 @@ export default function UsersPage() {
             className="border rounded-md px-2 py-2 text-sm"
           >
             <option value={5}>5</option>
-            <option value={6}>6</option>
             <option value={10}>10</option>
-            <option value={20}>20</option>
+            <option value={15}>15</option>
           </select>
         </div>
       </motion.div>
