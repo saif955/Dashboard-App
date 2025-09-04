@@ -12,8 +12,8 @@ A modern users dashboard built with Next.js (App Router), TypeScript, Tailwind C
 
 ## Live
 
-- Production: <YOUR_VERCEL_URL>
-- Repo: <YOUR_REPO_URL>
+- Production: [link](https://dashboard-app-nine-tawny.vercel.app/)
+- Repo: [link](https://github.com/saif955/Dashboard-App)
 
 ## Features
 
